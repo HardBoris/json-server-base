@@ -1,11 +1,263 @@
 {
   "users": [
     {
-      "email": "kenzinho@mail.com",
-      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
-      "name": "Kenzinho",
-      "age": 38,
+      "email": "profesor01@ficticia.com",
+      "password": "$2a$10$vUKw7s4B2rxrjFOkcaIPKui32yyHxdZw6HLipYBg9hDabIC4l7yq6",
+      "name": "Profesor01",
+      "role": "profesor",
       "id": 1
+    },
+    {
+      "email": "profesor02@ficticia.com",
+      "password": "$2a$10$XpUSzhL/c8b5ePKrOtjFOuGQtgtUX.DzXYdZflD048iZqasL/USeK",
+      "name": "Profesor02",
+      "role": "profesor",
+      "id": 2
+    },
+    {
+      "email": "profesor03@ficticia.com",
+      "password": "$2a$10$VDDhUBbC8Z3KZc9ax18igeAPWaMVlSSa1iZc/MJH9udVH6.jeViWm",
+      "name": "Profesor03",
+      "role": "profesor",
+      "id": 3
+    },
+    {
+      "email": "profesor04@ficticia.com",
+      "password": "$2a$10$351vdps5aQTjuiSmvcAauegrHo9EALs7xCXMmLt7mUJEagAVNDnHW",
+      "name": "Profesor04",
+      "role": "profesor",
+      "id": 4
+    },
+    {
+      "email": "profesor05@ficticia.com",
+      "password": "$2a$10$agRn0TcJY0kUAsfyL/RPFuyNLBCf8ZJLlsCb80jFT1YbRbA/dWoMK",
+      "name": "Profesor05",
+      "role": "profesor",
+      "id": 5
+    },
+    {
+      "email": "alumno01@ficticia.com",
+      "password": "$2a$10$3vJuqC7EHsKgAdbe3gr6O.yUgSbRUA1B1GDRDoA/1TRe/6Jhcm7WO",
+      "name": "Alumno01",
+      "role": "alumno",
+      "id": 6
+    },
+    {
+      "email": "alumno02@ficticia.com",
+      "password": "$2a$10$6eXkj0.7Mhr6KFk3Vpgzw./97gCN1OxiGDtCmqSQi6y8IIcp3USHm",
+      "name": "Alumno02",
+      "role": "alumno",
+      "id": 7
+    },
+    {
+      "email": "alumno03@ficticia.com",
+      "password": "$2a$10$qr7n6TeWSSLIlooynJ7Aqe/jSwt7Y2zrkPnmrLfqyASoy6W33kJfe",
+      "name": "Alumno03",
+      "role": "alumno",
+      "id": 8
+    },
+    {
+      "email": "alumno04@ficticia.com",
+      "password": "$2a$10$V5tG.6CJZCi48YQp3QnOaOs.k6doi0aom5Xo3y0yD.B/KCCTqOf7q",
+      "name": "Alumno04",
+      "role": "alumno",
+      "id": 9
+    },
+    {
+      "email": "alumno05@ficticia.com",
+      "password": "$2a$10$Z6tf.lb8K1U3a1.pTvTqu.TJDAkm22.ykAQOSPIeb5bDx7rg0i5cC",
+      "name": "Alumno05",
+      "role": "alumno",
+      "id": 10
+    },
+    {
+      "email": "alumno06@ficticia.com",
+      "password": "$2a$10$HWo1bk//6a8R7bFv4bQcv.NU.5GvhtrcnFZpb0N4AyWHmWN2j52ia",
+      "name": "Alumno06",
+      "role": "alumno",
+      "id": 11
+    },
+    {
+      "email": "alumno07@ficticia.com",
+      "password": "$2a$10$ZBVbc/gbfpoFkBqumuDjhu7UcSDC/8TfA6Im1g90qJL1l/G5/7MoS",
+      "name": "Alumno07",
+      "role": "alumno",
+      "id": 12
+    },
+    {
+      "email": "alumno08@ficticia.com",
+      "password": "$2a$10$h5PSnuVI9VRSg2K.wW.xXOwZoDoq4PT0QYY5JLSYUb7UqgztAFIl.",
+      "name": "Alumno08",
+      "role": "alumno",
+      "id": 13
+    },
+    {
+      "email": "alumno09@ficticia.com",
+      "password": "$2a$10$QpPQi9cT2XIH4rbLg9AOoepVFT6lT8739uk.ClLs13ly0ymFMj76q",
+      "name": "Alumno09",
+      "role": "alumno",
+      "id": 14
+    },
+    {
+      "email": "alumno10@ficticia.com",
+      "password": "$2a$10$iqPVGayWcYZ4TKk2WBT4SOQNw1KE14C3Wcb/ilQ9IqXrY6FKHhgta",
+      "name": "Alumno10",
+      "role": "alumno",
+      "id": 15
+    },
+    {
+      "email": "alumno11@ficticia.com",
+      "password": "$2a$10$vl0p1OYhz7iHLYcOiBzBC.PAP1lBVLBQpylv90Cce2VSvX7NRgjqG",
+      "name": "Alumno11",
+      "role": "alumno",
+      "id": 16
+    },
+    {
+      "email": "alumno12@ficticia.com",
+      "password": "$2a$10$ejkyF5lCGtkk0paxMy1UjegEkIRIrsmYHo47DB.RQGlKcbzffs2ou",
+      "name": "Alumno12",
+      "role": "alumno",
+      "id": 17
+    },
+    {
+      "email": "alumno13@ficticia.com",
+      "password": "$2a$10$XebqgZY2AChw5IHfjZhoz.McIm.Lo/KCXYj1bpjnBB15KqPuwqWL.",
+      "name": "Alumno13",
+      "role": "alumno",
+      "id": 18
+    },
+    {
+      "email": "alumno14@ficticia.com",
+      "password": "$2a$10$NVTt2DDIJrmYZmR3I1ltN.gO37Jt22CIyP6VGwaDdDXSLjSe8KVF.",
+      "name": "Alumno14",
+      "role": "alumno",
+      "id": 19
+    },
+    {
+      "email": "alumno15@ficticia.com",
+      "password": "$2a$10$66CIICVQrSLkTmzXupuHB.1NcMItSBDnWfrxXUROOu/s9y08NiYLm",
+      "name": "Alumno15",
+      "role": "alumno",
+      "id": 20
+    }
+  ],
+  "disciplines": [
+    {
+      "userId": 1,
+      "discipline": "Disciplina01",
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "discipline": "Disciplina02",
+      "id": 2
+    },
+    {
+      "userId": 3,
+      "discipline": "Disciplina03",
+      "id": 3
+    },
+    {
+      "userId": 4,
+      "discipline": "Disciplina04",
+      "id": 4
+    },
+    {
+      "userId": 5,
+      "discipline": "Disciplina05",
+      "id": 5
+    }
+  ],
+  "groups": [
+    {
+      "userId": 5,
+      "group": [
+        {
+          "userId": 18,
+          "name": "Alumno13"
+        },
+        {
+          "userId": 14,
+          "name": "Alumno09"
+        },
+        {
+          "userId": 13,
+          "name": "Alumno08"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "userId": 4,
+      "group": [
+        {
+          "userId": 19,
+          "name": "Alumno14"
+        },
+        {
+          "userId": 20,
+          "name": "Alumno15"
+        },
+        {
+          "userId": 8,
+          "name": "Alumno03"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "userId": 3,
+      "group": [
+        {
+          "userId": 6,
+          "name": "Alumno01"
+        },
+        {
+          "userId": 11,
+          "name": "Alumno06"
+        },
+        {
+          "userId": 7,
+          "name": "Alumno02"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "userId": 2,
+      "group": [
+        {
+          "userId": 12,
+          "name": "Alumno07"
+        },
+        {
+          "userId": 16,
+          "name": "Alumno11"
+        },
+        {
+          "userId": 9,
+          "name": "Alumno04"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "group": [
+        {
+          "userId": 15,
+          "name": "Alumno10"
+        },
+        {
+          "userId": 10,
+          "name": "Alumno05"
+        },
+        {
+          "userId": 17,
+          "name": "Alumno12"
+        }
+      ],
+      "id": 5
     }
   ]
 }
